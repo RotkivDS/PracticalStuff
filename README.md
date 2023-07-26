@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 ```
 Set custom Latex Markers for stem plots
 ```
-markerline, stemlines, baseline = ax.stem(sx, sy, sz
+markerline, stemlines, baseline = ax.stem(sx, sy, sz)
 markerline.set_marker(r"$\text{\normalfont\sun}$")
 markerline.set_markersize(10)
 ```
