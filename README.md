@@ -53,7 +53,7 @@ Unit=%i.service
 WantedBy=timers.target
 ```
 
-`timer-exec-stuff.ervice`
+`timer-exec-stuff.service`
 ```
 [Unit]
 Description=Stuff Service
