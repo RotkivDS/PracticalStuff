@@ -26,7 +26,7 @@ plt.rcParams.update({
     "font.sans-serif": "Helvetica",
 })
 ```
-##systemD Stuff
+## `systemD` Stuff
 
 ```
 ln -s /path/to/timers/timer-exec-stuff.service /etc/systemd/system/timer-exec-stuff.service
