@@ -75,3 +75,6 @@ Note: Some unit names contain an @ sign (e.g. name@string.service): this means t
 systemctl daemon-reload
 systemctl restart bla.service
 ```
+
+## PaperlessNGX
+In Container: python3 manage.py createsuperuser
