@@ -78,3 +78,6 @@ systemctl restart bla.service
 
 ## PaperlessNGX
 In Container: python3 manage.py createsuperuser
+
+## PaperlessNGX
+InkStitch for Stiching files
