@@ -81,3 +81,6 @@ In Container: python3 manage.py createsuperuser
 
 ## PaperlessNGX
 InkStitch for Stiching files
+
+## Keras multi input and output
+https://keras.io/guides/functional_api/
