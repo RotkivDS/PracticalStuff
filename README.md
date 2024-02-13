@@ -1,5 +1,9 @@
 # PracticalStuff
 
+##Mac
+xattr -dr com.apple.quarantine /Applications/Easy\ Move+Resize.app
+https://github.com/dmarcotte/easy-move-resize
+
 ## HEIC Convert 
 ```
 mogrify -quality 85% -format jpg -path ./jpgs *.HEIC &
