@@ -2,7 +2,8 @@
 
 ## Mac
 
-xattr -dr com.apple.quarantine /Applications/Easy\ Move+Resize.app
+```xattr -dr com.apple.quarantine /Applications/Easy\ Move+Resize.app```
+
 https://github.com/dmarcotte/easy-move-resize
 
 ## HEIC Convert 
