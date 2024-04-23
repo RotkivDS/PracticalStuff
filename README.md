@@ -6,6 +6,9 @@
 
 https://github.com/dmarcotte/easy-move-resize
 
+### Mouse
+```defaults write .GlobalPreferences com.apple.mouse.scaling -1```
+
 ## HEIC Convert 
 ```
 mogrify -quality 85% -format jpg -path ./jpgs *.HEIC &
