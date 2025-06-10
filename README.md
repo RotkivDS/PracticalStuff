@@ -1,4 +1,6 @@
 # PracticalStuff
+## Bundleing
+``npx esbuild index.ts --bundle --outfile=dist/bundle.js --format=esm --target=es2020``
 
 ## Mac
 
